@@ -1,0 +1,15 @@
+package javaExampleCode;
+
+/*
+ * 배열에 담긴 값들 중에 최대값과 최소값을 구하는 예제.
+ * */
+public class Array_1 {
+
+	public static void main(String[] args) {
+		
+		int[] score = {}
+		// TODO Auto-generated method stub
+		
+	}
+
+}
